@@ -3,7 +3,8 @@ java script code snippets
 
 **my first repository**
 
-<img width="1920" height="976" alt="IMG_2220" src="https://github.com/user-attachments/assets/8082b05b-e556-466a-b816-6801da3d9f76" />
+<img width="960" height="1280" alt="арсений" src="https://github.com/user-attachments/assets/0dc9347a-8b5f-4e01-8c78-24f067cd998d" />
+
 
 1. Первый пункт
 2. Второй пункт
